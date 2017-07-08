@@ -1,0 +1,149 @@
+
+#header {
+	color:white;
+    text-align:center;
+    padding:30px;
+}
+
+#section {
+    
+    width:200px;
+    /*float:left;*/
+    padding:0px;	
+}	
+
+#transbox
+{
+  width:600px;
+  height:300px;
+  margin: 30px;
+  float:left;
+  /*background-color: #ffffff;*/
+  border: 1px solid black;
+  opacity:0.6;
+  filter:alpha(opacity=60); 
+}
+
+#transbox1
+{
+  width:1200px;
+  height:20px;
+  margin: 30px;
+  float:left;
+  background-color: #000000;
+  border: 1px solid black;
+  opacity:0.6;
+  filter:alpha(opacity=60); 
+}
+#transbox2
+{
+  width:300px;
+  height:300px;
+  margin: 30px;
+  float:left;
+  background-color: #000000;
+  border: 1px solid black;
+  opacity:0.9;
+  filter:alpha(opacity=90); 
+}
+
+
+#transbox p
+{
+  margin: 5%;
+  font-weight: bold;
+  font-family:Courier New;
+  color: #ffffff;
+}
+
+	
+.form{
+     float:right;
+     width:400px; 
+	 height: auto px;
+	 margin: 0 auto; 
+	 background:#1C2B4A; 
+	 margin-top:150px;
+	 margin-bottom:150px;
+	 }
+	 
+.header{
+       height:44px; 
+	   background:#17233B
+	   }
+	   
+.header h2{
+         height:44px; 
+		 line-height:44px; 
+		 color:#fff; 
+		 text-align:center
+		 }
+		 
+.login{
+      padding:0 40px
+	  }
+	  
+.login span
+ .un{
+    width:20px; 
+	text-align:center; 
+	color:#0C6; 
+	border-radius:3px 0 0 3px
+	}
+	
+.text{
+     background:#12192C; 
+	 width:90%;
+	 border-radius:0 3px 3px 0; 
+	 border:none; 
+	 outline:none; 
+	 color:#999; 
+	 font-family: 'Source Sans Pro', sans-serif
+	 } 
+
+.text,.login span.un{
+     display:inline-block; 
+	 vertical-align:top; 
+	 height:40px; 
+	 line-height:40px; 
+	 background:#12192C;
+	 }
+
+.btn{
+   height:40px;  
+   width:100%;
+   background:#423807; 
+   font-family: 'Source Sans Pro', sans-serif; 
+   font-size:20px; 
+   font-weight:bold; 
+   color:#eee; 
+   border-bottom:solid 3px #093; 
+   border-radius:3px; 
+   cursor:pointer
+   }
+   
+ul li{
+   height:40px;
+   padding:20px 20px 10px 10px;   
+   margin:10px 0; 
+   list-style:none
+   }
+   
+.span{
+     display:table; 
+	 width:100%; 
+	 font-size:14px;
+	 }
+	 
+.ch{
+   display:inline-block; 
+   width:50%; 
+   color:#CCC
+   }
+   
+.ch a{
+    color:#CCC; 
+	text-decoration:none
+	}
+	
+
